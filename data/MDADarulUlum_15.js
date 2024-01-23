@@ -1,0 +1,1 @@
+var json_MDADarulUlum_15 = {"type":"FeatureCollection","name":"MDADarulUlum_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","mda":"MDA"},"geometry":{"type":"Point","coordinates":[101.527352169613309,-0.291143449982453]}}]}
